@@ -13,3 +13,5 @@ Es werden Filmkitiken gelistet.
 * In 80 Tagen um die Welt
 * Jenseits von Afrika
 
+Zitat aus einem Film:
+> Das wurde mal so oder anders gesagt.
