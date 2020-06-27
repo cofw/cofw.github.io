@@ -7,3 +7,9 @@ Es werden Autoren, Namen und Verlage der Romane benannt.
 Es werden zu den Filmen die Regie, die Drehorte und die Schauspieler aufgefürt.
 Es werden Filmkitiken gelistet.
 
+## Filme
+* Der dritte Man
+* Gold Finger
+* In 80 Tagen um die Welt
+* Jenseits von Afrika
+
